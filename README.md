@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I'm not currently working, but I study a lot
 - 🌱 I’m currently learning .
 
  
