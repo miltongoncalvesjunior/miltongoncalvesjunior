@@ -6,4 +6,4 @@ Q
 - 🌱 I’m currently learning 
 
 
-![Snake animation](https://github.com/{{miltongoncalvesjunior}}/{{miltongoncalvesjunior}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/miltongoncalvesjunior/{miltongoncalvesjunior/blob/output/github-contribution-grid-snake.svg)
