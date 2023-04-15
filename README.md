@@ -3,7 +3,7 @@ Q
 ## GitHub do Milton Goncalves Junior
 
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning 
 
 
-![Snake](https://github.com/miltongoncalvesjunior/miltongoncalvesjunior/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{miltongoncalvesjunior}}/{{miltongoncalvesjunior}}/blob/output/github-contribution-grid-snake.svg)
