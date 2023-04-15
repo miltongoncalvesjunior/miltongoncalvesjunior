@@ -6,4 +6,4 @@ Q
 - 🌱 I’m currently learning JavaScript
 
 
-![Snake](https://github.com/miltongoncalvesjunior/miltongoncalvesjunior/blob/output/github-contribution-grid-snake.svg)
+![Snake]https://github.com/miltongoncalvesjunior/miltongoncalvesjunior/blob/output/github-contribution-grid-snake.svg)
